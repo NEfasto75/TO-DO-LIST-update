@@ -1,0 +1,22 @@
+body {
+  background-color: bisque;
+  text-align: center;
+}
+h2 {
+  font-size: 30px;
+}
+.red {
+  background-color: red;
+  color: #fff;
+}
+ul {
+  font-family: macondo;
+  list-style-type: circle;
+  font-size: 25px;
+  text-align: left;
+}
+
+.close {
+  position: absolute;
+  right: 20px;
+}
